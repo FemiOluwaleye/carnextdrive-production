@@ -45,8 +45,8 @@ export default function Index() {
           {/* Right side - Hero image */}
           <div className="relative hidden lg:block bg-gray-100">
             <img
-              src="/cars/tahoe.jpg"
-              alt="Chevy Tahoe SUV"
+              src="/cars/ecar.jpg"
+              alt="Ecar"
               className="w-full h-full object-cover"
             />
           </div>
